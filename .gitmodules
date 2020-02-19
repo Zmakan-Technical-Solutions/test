@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/discount_sale_order"]
+	path = Zmakan-Technical-Solutions/discount_sale_order
+	url = git@github.com:Zmakan-Technical-Solutions/discount_sale_order.git
+	branch = 13.0
