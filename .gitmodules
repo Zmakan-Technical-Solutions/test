@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/test_zts"]
+	path = Zmakan-Technical-Solutions/test_zts
+	url = git@github.com:hibapk-zmakan/test_zts.git
+	branch = 13.0
