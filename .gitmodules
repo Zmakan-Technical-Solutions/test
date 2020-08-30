@@ -1,0 +1,3 @@
+[submodule "Zmakan-Technical-Solutions/zts_attendance_sheet"]
+	path = Zmakan-Technical-Solutions/zts_attendance_sheet
+	url = git@github.com:hibapk-zmakan/zts_attendance_sheet.git
