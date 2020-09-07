@@ -6,3 +6,7 @@
 	path = Zmakan-Technical-Solutions/zts_approval_workflow_purchase
 	url = git@github.com:hibapk-zmakan/zts_approval_workflow_purchase.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/zts_master_pnm2"]
+	path = Zmakan-Technical-Solutions/zts_master_pnm2
+	url = git@github.com:hibapk-zmakan/zts_master_pnm2.git
+	branch = 13.0
