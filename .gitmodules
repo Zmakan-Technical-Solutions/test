@@ -18,3 +18,7 @@
 	path = Zmakan-Technical-Solutions/zts_master_pnm2
 	url = git@github.com:hibapk-zmakan/zts_master_pnm2.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/zts_approval_workflow_sale_"]
+	path = Zmakan-Technical-Solutions/zts_approval_workflow_sale_
+	url = git@github.com:hibapk-zmakan/zts_approval_workflow_sale_.git
+	branch = 13.0
