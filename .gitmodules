@@ -6,3 +6,7 @@
 	path = Zmakan-Technical-Solutions/zts_approval_workflow_purchase
 	url = git@github.com:hibapk-zmakan/zts_approval_workflow_purchase.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/zts_reordering_auto_update"]
+	path = Zmakan-Technical-Solutions/zts_reordering_auto_update
+	url = git@github.com:hibapk-zmakan/zts_reordering_auto_update.git
+	branch = 13.0
