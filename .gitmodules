@@ -10,3 +10,7 @@
 	path = Zmakan-Technical-Solutions/zts_reordering_auto_update
 	url = git@github.com:hibapk-zmakan/zts_reordering_auto_update.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/partner_credit_limit_zts"]
+	path = Zmakan-Technical-Solutions/partner_credit_limit_zts
+	url = git@github.com:hibapk-zmakan/partner_credit_limit_zts.git
+	branch = 13.0
