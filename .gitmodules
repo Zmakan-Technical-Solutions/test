@@ -22,3 +22,7 @@
 	path = Zmakan-Technical-Solutions/zts_approval_workflow_sale_
 	url = git@github.com:hibapk-zmakan/zts_approval_workflow_sale_.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/zts_loan"]
+	path = Zmakan-Technical-Solutions/zts_loan
+	url = git@github.com:hibapk-zmakan/zts_loan.git
+	branch = 13.0
