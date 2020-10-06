@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/zts_product_onhand"]
+	path = Zmakan-Technical-Solutions/zts_product_onhand
+	url = git@github.com:hibapk-zmakan/zts_product_onhand.git
+	branch = 13.0
