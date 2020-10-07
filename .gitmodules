@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/stock_by_location"]
+	path = Zmakan-Technical-Solutions/stock_by_location
+	url = git@github.com:hibapk-zmakan/stock_by_location.git
+	branch = 13.0
