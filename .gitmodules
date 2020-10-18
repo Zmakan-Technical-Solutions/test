@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/localization_payroll"]
+	path = Zmakan-Technical-Solutions/localization_payroll
+	url = git@github.com:hibapk-zmakan/localization_payroll.git
+	branch = 13.0
