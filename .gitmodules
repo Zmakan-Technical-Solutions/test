@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/product_variant_supplierinfo"]
+	path = Zmakan-Technical-Solutions/product_variant_supplierinfo
+	url = git@github.com:hibapk-zmakan/product_variant_supplierinfo.git
+	branch = 13.0
