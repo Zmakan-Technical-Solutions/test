@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/pos_product_by_lot_number"]
+	path = Zmakan-Technical-Solutions/pos_product_by_lot_number
+	url = git@github.com:hibapk-zmakan/pos_product_by_lot_number.git
+	branch = 13.0
