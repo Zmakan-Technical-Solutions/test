@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/zts_import_inventory_adjustment"]
+	path = Zmakan-Technical-Solutions/zts_import_inventory_adjustment
+	url = git@github.com:hibapk-zmakan/zts_import_inventory_adjustment.git
+	branch = 13.0
