@@ -2,3 +2,7 @@
 	path = Zmakan-Technical-Solutions/zts_import_inventory_adjustment
 	url = git@github.com:hibapk-zmakan/zts_import_inventory_adjustment.git
 	branch = 13.0
+[submodule "Zmakan-Technical-Solutions/pos_arabic_order_receipt"]
+	path = Zmakan-Technical-Solutions/pos_arabic_order_receipt
+	url = git@github.com:hibapk-zmakan/pos_arabic_order_receipt.git
+	branch = 13.0
