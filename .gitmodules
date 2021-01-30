@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/payment_simplify"]
+	path = Zmakan-Technical-Solutions/payment_simplify
+	url = git@github.com:hibapk-zmakan/payment_simplify.git
+	branch = 13.0
