@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/zts_pos_session_sale_order_report"]
+	path = Zmakan-Technical-Solutions/zts_pos_session_sale_order_report
+	url = git@github.com:hibapk-zmakan/zts_pos_session_sale_order_report.git
+	branch = 13.0
