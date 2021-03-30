@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/zts_onchange_lot_number"]
+	path = Zmakan-Technical-Solutions/zts_onchange_lot_number
+	url = git@github.com:hibapk-zmakan/zts_onchange_lot_number.git
+	branch = 13.0
