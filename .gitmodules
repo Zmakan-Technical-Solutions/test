@@ -1,0 +1,4 @@
+[submodule "Zmakan-Technical-Solutions/zts_partner_name_restriction"]
+	path = Zmakan-Technical-Solutions/zts_partner_name_restriction
+	url = git@github.com:hibapk-zmakan/zts_partner_name_restriction.git
+	branch = 13.0
